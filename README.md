@@ -57,7 +57,7 @@ Bookstore/
 
 ```bash
 # Clone the repository
-git clone https://github.com/JJonnass/Bookstore.git
+git clone https://github.com/JJonnass/java-bookstore-app.git
 cd Bookstore
 
 # Build and run the project
