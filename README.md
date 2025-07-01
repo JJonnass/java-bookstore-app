@@ -62,3 +62,10 @@ cd Bookstore
 
 # Build and run the project
 ./mvnw spring-boot:run
+```
+---
+## What I Learned
+- Setting up a Spring Boot project with Maven
+- Designing RESTful routes using Spring MVC
+- Implementing a clean MVC structure
+- Managing dependencies and builds with Maven
